@@ -90,7 +90,7 @@ export default function AboutPage() {
             <div className="relative h-80 w-80 mx-auto lg:h-96 lg:w-96 animate-float">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-600 rounded-full blur-2xl opacity-30" />
               <Image
-                src="/placeholder-user.jpg"
+                src="/photo.jpg"
                 alt="Saurabh Tiwari"
                 width={400}
                 height={400}
